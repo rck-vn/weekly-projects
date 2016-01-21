@@ -1,5 +1,24 @@
-//ahhh test change
+//notes
 
+//git clone (link to what you want to pull/copy)
+
+//cd foldername
+
+//git remote add Rick (link to my repository)
+
+//
+
+//pwd
+
+//git status
+
+//git add main.js
+
+//git commit -m "Finished HW."
+
+//git push Rick Master
+
+// ==========================================================================
 //Array for Days !!
 
 // For any methods that we didn't cover, please refer to the Array Documentation.
